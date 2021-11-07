@@ -1,0 +1,55 @@
+.img{
+    height: 205px;
+    width: 166.3px;
+    position: absolute;
+    margin-top: -110px;
+}
+.text{
+    text-align: right;
+    color: white;
+
+}
+h1{
+    font-size: 15pt;
+}
+p{
+    font-size: 10pt;
+}
+.block1{
+    border-radius: 10px;
+     width: 300px;
+     height: 150px;
+    background: linear-gradient(to top, #a266bb 20%, #758ccc 50%);
+    margin-left: 15%;
+    margin-top: 40px;
+    padding: 10px;
+}
+.block2{
+    border-radius: 10px;
+     width: 300px;
+     height: 150px;
+    background: linear-gradient(to top, #642020 20%, #b13838 50%);
+    margin-left: 15%;
+    margin-top: 40px;
+    padding: 10px;
+}
+.block3{
+    border-radius: 10px;
+     width: 300px;
+     height: 150px;
+    background: linear-gradient(45deg, #000, #370077);
+    float: right ;
+    margin-right: 15%;
+    margin-top: -380px;
+    padding: 10px;
+}
+.block4{
+    border-radius: 10px;
+     width: 300px;
+     height: 150px;
+    background: linear-gradient(45deg, rgb(54, 0, 0), #9e0000);
+    float: right;
+    margin-right: 15%;
+    margin-top: -170px;
+    padding: 10px;
+}
